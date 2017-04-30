@@ -6,8 +6,8 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
@@ -20,7 +20,7 @@
 
     <artifactId>s3</artifactId>
     <packaging>hpi</packaging>
-    <version>0.11.0-SNAPSHOT</version>
+    <version>0.10.13</version>
     <name>Jenkins S3 publisher plugin</name>
     <url>https://wiki.jenkins-ci.org/display/JENKINS/S3+Plugin</url>
 
